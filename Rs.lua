@@ -1,2 +1,2 @@
 return 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/cauexxxd/IDk/refs/heads/main/loader.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/cauexxxd/Rs/refs/heads/main/loader.lua"))()
