@@ -9,7 +9,7 @@ local Scripts = {
     },
     ["BloxFruits"] = {
         Ids = {7449423635, 4442272183, 2753915549},
-        Url = "https://raw.githubusercontent.com/cauexxxd/IDk/refs/heads/main/BloxFruits.lua"
+        Url = "https://raw.githubusercontent.com/cauexxxd/Rs/refs/heads/main/BloxFruits.lua"
     },
     
     ["MurderMystery2"] = {
